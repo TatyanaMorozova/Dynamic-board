@@ -3,4 +3,4 @@
 + CSS 3
 - JavaScript
 
-You can view [https://tatyanamorozova.github.io/Dynamic-board/](Dynamic-board)
+You can view[https://tatyanamorozova.github.io/Dynamic-board/](Dynamic-board)
